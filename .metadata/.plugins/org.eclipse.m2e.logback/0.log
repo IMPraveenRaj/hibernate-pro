@@ -861,3 +861,12 @@
 2024-10-31 23:02:29,439 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-cudapp-logging-added\src\test\resources
 2024-10-31 23:02:39,805 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2024-10-31 23:02:39,806 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-cudapp-logging-added\src\test\resources
+2024-10-31 23:03:41,544 [Worker-109: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springheaven.hibernatepro:hibernate-pro-project:0.0.1-SNAPSHOT @ C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\pom.xml.
+2024-10-31 23:03:41,764 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-31 23:03:41,768 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:03:41,996 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-10-31 23:03:42,000 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:06:23,781 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-31 23:06:23,784 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:06:44,081 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-31 23:06:44,084 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
