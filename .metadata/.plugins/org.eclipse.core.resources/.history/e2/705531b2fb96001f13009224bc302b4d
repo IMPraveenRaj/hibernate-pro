@@ -1,0 +1,10 @@
+package com.springheaven.orm.entity;
+
+public class Song {
+
+	
+	private int id;
+	private String songName;
+	private String artist;
+	
+}

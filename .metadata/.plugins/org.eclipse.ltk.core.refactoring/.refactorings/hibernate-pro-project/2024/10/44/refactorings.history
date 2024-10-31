@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename source folder &apos;hibernate-pro-project/src/main/resource&apos; to &apos;resources&apos;&#x0D;&#x0A;- Original project: &apos;hibernate-pro-project&apos;&#x0D;&#x0A;- Original element: &apos;hibernate-pro-project/src/main/resource&apos;&#x0D;&#x0A;- Renamed element: &apos;resource&apos;" description="Rename source folder &apos;src/main/resource&apos;" id="org.eclipse.jdt.ui.rename.source.folder" input="/src\/main\/resource" name="resources" stamp="1730320154208" version="1.0"/>
+</session>

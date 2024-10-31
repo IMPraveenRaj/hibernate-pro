@@ -1,0 +1,8 @@
+package com.springheaven.orm.entity;
+
+public class Demo {
+	
+	
+	private string address
+
+}

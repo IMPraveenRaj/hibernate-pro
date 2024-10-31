@@ -1,0 +1,24 @@
+package com.springheaven.orm.entity;
+
+public class StudentData {
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Id
+	public int id;
+	@Column(name="student_firstname",length = 70,nullable=false)
+	public String firstName;
+	@Column(name="student_lastname",length = 70,nullable = false)
+	public String lastName;
+	@Column(name="student_email",length = 70,nullable = false)
+	public String email;
+	@Column(name="address_line1",length = 200,nullable=false)
+	public String addressLine1;
+	@Column(name="address_line2",length = 200,nullable=false)
+	public String addressLine2;
+	@Column(name="city",length = 200,nullable=false)
+	public String city;
+	@Column(name="country")
+	public String country;
+
+	public StudentData() {
+	}
+}

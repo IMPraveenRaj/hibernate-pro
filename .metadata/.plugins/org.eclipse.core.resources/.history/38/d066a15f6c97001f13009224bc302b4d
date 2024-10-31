@@ -1,0 +1,20 @@
+package com.springheaven.orm.utils;
+
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+import com.springheaven.orm.entity.Song;
+
+public class HibernateUtils {
+	
+	private static SessionFactory sessionFactory=null;
+	
+	public static SessionFactory getsessionFactory() {
+		Configuration configuration = new Configuration();
+		configuration.configure();
+		configuration.addAnnotatedClass(Song.class);
+		SessionFactory sessionFactory= configuration.buildSessionFactory();
+		return sessionFactory;
+	}
+	
+}

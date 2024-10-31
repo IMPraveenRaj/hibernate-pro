@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+    <!-- there is a trick to Environment from org.hinernate.cfg
+    setup this properties to do that you can go to this class and do the following -->
+    <!-- url -->
+    <!-- username -->
+    <!-- password -->
+    
+    </session-factory>
+</hibernate-configuration>

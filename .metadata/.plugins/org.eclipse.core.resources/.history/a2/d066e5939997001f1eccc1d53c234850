@@ -1,0 +1,21 @@
+#log4j to console
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.Targer=System.out
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.CoversionPattern=%d{ABSOLUTE}%5p%c{1}:%L - %m%n
+
+#ROOT console
+log4j.rootLogger=OFF, stdout
+
+
+#logg Hibernate INFO
+log4j.logger.org.hibernate=OFF
+
+#SQL statements Log
+log4j.logger.org.hibernate.SQL=OFF
+
+#SHOW PARAM VALUES
+log4j.logger.org.hibernate.type.descriptor.sql.BasicBinder=OFF
+
+#SHOW SESSION INFO
+log4j.logger.org.hibernate.engine.internal.StatisticalLoggingSessionEventListener= INFO

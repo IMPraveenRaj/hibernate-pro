@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+    <!-- there is a trick to Environment inside the available setting class from org.hinernate.cfg
+    setup this properties to do that you can go to this class and do the following -->
+    <!-- url  hibernate.connection.url -->
+   <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/hibernate_pro</property>
+    <!-- username hibernate.connection.username-->
+   <property name="hibernate.connection.username">root</property>
+    <!-- password hibernate.connection.password -->
+   <property name="hibernate.connection.password">springheaven</property>
+   <!-- password hibernate.connection.password -->
+   <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property> 
+   <property name="hibernate.show_sql">true</property>
+   <property name="hibernate.format_sql">true</property>
+   <property name="hibernate.hbm2ddl.auto">update</property>
+   
+   
+       </session-factory>
+</hibernate-configuration>
