@@ -5,13 +5,13 @@ import javax.persistence.Embeddable;
 
 @Embeddable
 public class Address {
-	@Column(name="address_line1",length = 200,nullable=false)
+	//@Column(name="address_line1",length = 200,nullable=false)
 	public String addressLine1;
-	@Column(name="address_line2",length = 200,nullable=false)
+	//@Column(name="address_line2",length = 200,nullable=false)
 	public String addressLine2;
-	@Column(name="city",length = 200,nullable=false)
+	//@Column(name="city",length = 200,nullable=false)
 	public String city;
-	@Column(name="country")
+	//@Column(name="country")
 	public String country;
 	
 	public String getAddressLine1() {

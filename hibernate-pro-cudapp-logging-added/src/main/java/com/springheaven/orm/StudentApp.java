@@ -76,7 +76,8 @@ public class StudentApp
 		student.setFirstName("PraveenRaj");
 		student.setLastName("MohanRaj");
 		student.setEmail("impraveen13@gmail.com");          
-		student.setAddress(address);
+		student.setHomeaddress(address);
+		student.setHostelAddress(address);
 		session.save(student);
 		session.getTransaction().commit();
 		session.close();
