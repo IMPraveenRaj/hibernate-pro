@@ -870,3 +870,98 @@
 2024-10-31 23:06:23,784 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
 2024-10-31 23:06:44,081 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-31 23:06:44,084 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:08:36,631 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-31 23:08:36,633 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:10:47,438 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:10:47,439 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:11:08,235 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:11:08,239 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:11:13,819 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:11:13,821 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:11:16,887 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:11:16,889 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:11:46,354 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:11:46,357 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:11:54,872 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:11:54,874 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:12:15,840 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:12:15,842 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:12:26,648 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:12:26,650 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:12:42,912 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:12:42,914 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:12:49,514 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:12:49,516 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:13:14,613 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:13:14,615 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:13:17,301 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:13:17,303 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:14:56,560 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:14:56,562 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:16:00,273 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:16:00,275 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:16:15,044 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:16:15,046 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:16:50,770 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:16:50,772 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:16:55,101 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:16:55,103 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:16:58,178 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:16:58,180 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:17:44,611 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:17:44,614 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:18:13,741 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:18:13,743 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:18:19,629 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:18:19,631 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:18:30,707 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:18:30,709 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:18:47,187 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:18:47,189 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:18:49,690 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:18:49,692 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:18:52,877 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:18:52,879 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:19:15,950 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:19:15,952 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:19:17,224 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:19:17,228 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:19:26,265 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:19:26,268 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:19:32,530 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:19:32,532 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:19:41,408 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:19:41,409 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-10-31 23:20:09,580 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-10-31 23:20:09,582 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:18:30,638 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-12 19:31:21,257 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:31:21,271 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:32:12,724 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-12 19:32:12,730 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:32:14,807 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-12 19:32:14,811 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:33:30,079 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:33:30,082 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:33:59,056 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:33:59,059 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:34:03,597 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:34:03,600 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:34:11,839 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:34:11,841 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:34:32,192 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:34:32,195 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:35:10,000 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-12 19:35:10,003 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:36:19,045 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:36:19,048 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:36:28,879 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:36:28,885 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:36:41,802 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:36:41,805 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:36:48,824 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:36:48,827 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:37:12,689 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-11-12 19:37:12,691 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
+2024-11-12 19:37:59,899 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-12 19:37:59,901 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\rajaa\Desktop\hibernate-pro\hibernate-pro-hql\src\test\resources
